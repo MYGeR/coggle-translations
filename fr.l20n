@@ -11,21 +11,20 @@
 /* front page content */
 
 <index-description """
-  <h1>Lâchez votre créativité</h1>
+  <h1>Laissez cours à votre créativité</h1>
   <p>Prenez de jolies notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer vos idées en collaboration. Tout ça gratuitement!</p>
   <p><a><span><b>Commencez maintenant! </b></span></a><a><span>Ou, lisez-en plus.</span></a></p>
 """>
 
 <testimonial-jenn """
-  <p>"Je ne peux penser que d'un seul mot pour décrire ma joie avec ça...
-  supercalifragilisticexpialidocious!"</p>
+  <p>"Je ne peux penser qu'à un seul mot pour décrire ma joie avec ça... supercalifragilisticexpialidocious!"</p>
   <p>Jenn, utilisateur de Coggle</p>
 """>
 
 <features-collaborate """
   <img>
-  <h2>Travaillez avec tout le monde!</h2>
-  <p>Souvent, nous sommes meilleurs en équipe, et ces équipes travaillent plus efficacement quand ils collaborent sans limite. Coggle vous permet d'inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.</p>
+  <h2>Faites participer tout le monde!</h2>
+  <p>Souvent, nous sommes meilleurs en équipe, et ces équipes travaillent plus efficacement quand elles collaborent sans limite. Coggle vous permet d'inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.</p>
 """>
 
 <features-images """
@@ -54,7 +53,7 @@
 """>
 
 <features-others """
-  Coggle a des tas d'autres fonctionnalités géniales, alors <a>essayez les  maintenant</a>, c'est gratuit !
+  Coggle a dee nombreuses autres fonctionnalités géniales, alors <a>essayez les  maintenant</a>, c'est gratuit !
   Visitez le <a>blog</a> pour en savoir plus.
 """>
 
